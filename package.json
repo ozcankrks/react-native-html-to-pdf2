@@ -1,6 +1,6 @@
 {
   "name": "react-native-html-to-pdf2",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
